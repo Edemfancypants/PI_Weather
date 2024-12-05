@@ -1,0 +1,14 @@
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\bin\Debug\Projektmunka_WeatherStation.exe.config
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\bin\Debug\Projektmunka_WeatherStation.exe
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\bin\Debug\Projektmunka_WeatherStation.pdb
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\obj\Debug\Projektmunka_WeatherStation.csproj.AssemblyReference.cache
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\obj\Debug\Projektmunka_WeatherStation.Form1.resources
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\obj\Debug\Projektmunka_WeatherStation.Properties.Resources.resources
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\obj\Debug\Projektmunka_WeatherStation.csproj.GenerateResource.cache
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\obj\Debug\Projektmunka_WeatherStation.csproj.CoreCompileInputs.cache
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\obj\Debug\Projektmunka_WeatherStation.exe
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\obj\Debug\Projektmunka_WeatherStation.pdb
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\bin\Debug\Newtonsoft.Json.dll
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\bin\Debug\Newtonsoft.Json.xml
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\obj\Debug\Projektm.0A8C1438.Up2Date
+C:\Homework\_Sandbox\Projektmunka_WeatherStation\obj\Debug\Projektmunka_WeatherStation.SettingsControl_Packaging.resources
